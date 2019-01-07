@@ -1,0 +1,5 @@
+.idea
+*.pyc
+*.log
+hyspider/build
+hyspider/project.egg-info

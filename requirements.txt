@@ -65,7 +65,7 @@ pyparsing==2.2.0
 pypiwin32==223
 python-dateutil==2.7.2
 pytz==2018.4
-pywin32==223
+pywin32==301
 pywinpty==0.5.1
 pyzmq==17.0.0
 qtconsole==4.3.1

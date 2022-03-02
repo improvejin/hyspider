@@ -74,7 +74,7 @@ redis==2.10.6
 requests==2.18.4
 scikit-learn==0.19.1
 scipy==1.0.1
-Scrapy==1.5.0
+Scrapy==1.8.2
 scrapyd==1.2.0
 scrapyd-client==1.1.0
 selenium==3.12.0
